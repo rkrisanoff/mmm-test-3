@@ -1,5 +1,5 @@
 # Mind Math Map
-
+cococo
 #### Получение private access token
 1) Заходим на github.com
 2) Входим в аккаунт
